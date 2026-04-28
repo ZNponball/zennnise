@@ -1,0 +1,144 @@
+body{
+    background-color: #f4fde5;
+}
+.sasa{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.aikon{
+    display: inline-block;
+    width: 170px;
+    height: auto;
+
+}
+.zen{
+    border: 5px solid #ff00d9;
+    display: inline-block;
+    padding: 2px 2px;
+    color: rgb(255, 255, 0);
+    font-size: 100px;
+    text-decoration: none;
+    transition: 0.8s;
+    border-radius: 5px;
+    
+}
+
+.zen:hover{
+     color: rgb(239, 255, 21);
+        border-color: #ef16ff;
+        font-size: 110px;
+        
+
+}
+
+.big {
+    display: block;
+    font-size: 50px;
+    color: #240054;
+    margin-top: -30px;
+}
+.kihon{
+    color: rgb(1, 122, 174);
+    margin-top: -40px;
+}
+
+.history{
+    display: block;
+    text-decoration: none;
+    color: rgb(255, 242, 0);
+    margin: 20px;
+    font-size: 30px;
+  
+}
+
+
+.sabu{
+    color: rgb(0, 172, 6);
+}
+
+.syumi{
+    margin-top: 20px;
+    color: #ff6fe9;
+    font-size: 30px;
+}
+.syumi2{
+    color: #ff32b4;
+    margin-top: 5px;
+}
+.game{
+    margin-top: 20px;
+    font-size: 30px;
+    color: rgb(0, 164, 110);
+}
+.game2{
+    color: rgb(5, 205, 138);
+    margin-top: 5px;
+}
+
+.youtube{
+ margin-top: 20px;
+    color: #ff0000;
+    font-size: 30px;
+}
+
+.youtube2{
+    color: #ff7300;
+    margin-top: 5px;
+    
+}
+.youtube2:hover{
+    color: #ff32b4;
+}
+.sonkei{
+ margin-top: 20px;
+    color: #0091ff;
+    font-size: 30px;
+}
+
+.sonkei2{
+    color: #0049b7;
+    margin-top: 5px;
+}
+.manga{
+ margin-top: 20px;
+    color: #ffea00;
+    font-size: 30px;
+}
+
+.manga2{
+    color: #91ff00;
+    margin-top: 5px;
+}
+.tokui{
+ margin-top: 20px;
+    color: #ff4400;
+    font-size: 30px;
+}
+
+.tokui2{
+    color: #905401;
+    margin-top: 5px;
+}
+
+.nigate{
+ margin-top: 20px;
+    color: #62005c;
+    font-size: 30px;
+}
+
+.nigate2{
+    color: #5a026c;
+    margin-top: 5px;
+}
+
+.last{
+    color: #d4ff00;
+    margin-top: 5px;
+}
+
+.final{
+    color: #ff0000;
+    font-size: 30px;
+    margin-top: 20px;
+}
